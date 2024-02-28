@@ -7,7 +7,7 @@
   text-align: center;
 }
 main {
-  background-color: rgb(200, 253, 253);
+  background-color: rgba(187, 248, 248, 0.856);
   border-left: 0.1rem solid black;
   border-right: 0.1rem solid black;
 }
