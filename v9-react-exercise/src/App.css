@@ -7,7 +7,7 @@
   text-align: center;
 }
 main {
-  background-color: rgba(187, 248, 248, 0.856);
+  background-color: rgba(237, 187, 248, 0.33);
   border-left: 0.1rem solid black;
   border-right: 0.1rem solid black;
 }
@@ -15,5 +15,5 @@ h1 {
   font-family: "Lato", sans-serif;
   font-weight: 900;
   font-style: normal;
-  font-size: 1rem;
+  font-size: 3rem;
 }
